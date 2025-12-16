@@ -15,8 +15,6 @@ header {
     background: linear-gradient(135deg, #0D47A1, #3c93f7);
     color: white;
     padding: 50px 20px 30px;
-    border-bottom: 8px solid #42A5F5;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
 header h1 {
