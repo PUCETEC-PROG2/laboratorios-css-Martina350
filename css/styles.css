@@ -50,7 +50,6 @@ section {
     background-color: #FFFFFF;
     padding: 30px;
     border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     
 }
 
@@ -71,10 +70,10 @@ section h2 {
 }
 
 #sobre-mi img {
-    width: 160px;
+    width: 180px;
     height: auto;
-    margin: 10px 0 20px;
-    border-radius: 6px;
+    margin: 10px 0 25px;
+    border-radius: 8px;
     border: 3px solid #42A5F5;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
