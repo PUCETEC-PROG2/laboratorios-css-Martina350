@@ -1,8 +1,9 @@
-/* Los estilos se aplican a todo el documento */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
 body {
     background-image: url('/assets/images/background.jpg');
     margin: 0;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-family: "Merriweather", serif;
     color: #1E88E5;
     line-height: 1.6;
 }
@@ -45,7 +46,7 @@ section {
     display: flex;
     flex-direction: column;
     margin-bottom: 35px;
-    background-color: #FFFFFF;
+    background-color: aliceblue;
     padding: 30px;
     border-radius: 10px;
     
@@ -166,7 +167,7 @@ li::before {
 }
 
 #redes-sociales img {
-    width: 26px;
+    width: 40px;
 }
 
 footer {
